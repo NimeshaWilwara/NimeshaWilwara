@@ -12,7 +12,7 @@
   <a href="mailto:irukamihishanx@gmail.com">irukamihishanx@gmail.com</a> |
   <a href="https://irukawcs.blogspot.com/">Portfolio</a> |
   <a href="https://irukawcs.blogspot.com/">Blogger</a> |
-  <a href="https://www.instagram.com/iruka_mihishan/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nimesha-wilwara-008032218">LinkedIn</a>
 </p>
 
 - 🌱 I’m currently learning **Java, Python ,c.**
