@@ -9,7 +9,7 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:nimeshawilwara@gmail.com">irukamihishanx@gmail.com</a> |
+  <a href="mailto:nimeshawilwara00@gmail.com">irukamihishanx@gmail.com</a> |
   <a href="https://irukawcs.blogspot.com/">Portfolio</a> |
   <a href="https://irukawcs.blogspot.com/">Blogger</a> |
   <a href="https://www.linkedin.com/in/nimesha-wilwara-008032218">LinkedIn</a>
