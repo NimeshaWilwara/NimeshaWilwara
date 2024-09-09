@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:nimeshawilwara00@gmail.com">nimeshawilwara00@gmail.com</a> |
   <a href="https://sewmiiupdate.blogspot.com/">Portfolio</a> |
-  <a href="https://sewmiiupdate.blogspot.com/">Blogger</a> |
+  <a href="https://nimeshawilwara00.blogspot.com/">Blogger</a> |
   <a href="https://www.linkedin.com/in/nimesha-wilwara-008032218">LinkedIn</a>
 </p>
 
